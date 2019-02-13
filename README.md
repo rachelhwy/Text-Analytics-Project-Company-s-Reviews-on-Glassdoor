@@ -1,4 +1,4 @@
-# Text-Analytics-Project-Company-s-Reviews-on-Glassdoor
+# Reviews-on-Glassdoor
 
 This is a text analytics project focusing on Natural Language Processing (NLP) <br />
 Group Members: <br />
